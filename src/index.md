@@ -4,6 +4,8 @@
 layout: default
 ---
 
+### Rulebook collection for Button Shy Games
+
 <ul>
   {% for game in collections.games.resources %}
     <li>
