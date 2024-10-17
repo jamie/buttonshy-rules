@@ -1,8 +1,4 @@
 ---
-title:  "Skulls of Sedlec"
+title: Skulls of Sedlec
+bgg: https://boardgamegeek.com/boardgame/303553/skulls-of-sedlec
 ---
-
-> TODO: More expansions
-
-![](/images/skulls-of-sedlec.png)
-![](/images/skulls-of-sedlec-archers.png)
