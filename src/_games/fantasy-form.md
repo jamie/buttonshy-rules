@@ -2,4 +2,4 @@
 title:  "FantasyForm"
 ---
 
-![](/images/fantasyform.png)
+![](/images/fantasy-form.png)
