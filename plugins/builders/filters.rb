@@ -1,7 +1,7 @@
 class Builders::Filters < SiteBuilder
   def build
-    liquid_filter :starts_with do |basename, prefix|
-      basename.start_with?(prefix)
+    liquid_filter :contains_path do |basename, prefix|
+      basename.include?("/#{prefix}/")
     end
   end
 end

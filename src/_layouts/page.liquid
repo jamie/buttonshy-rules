@@ -10,8 +10,8 @@ layout: default
 {% endif %}
 
 {% for file in site.static_files %}
-{% assign file_is_image_for_this = file.basename | starts_with: data.slug %}
-{% if file_is_image_for_this %}
+{% assign matches_path = file.path | contains_path: data.slug %}
+{% if matches_path %}
 <p><img src="{{ file.path }}"/></p>
 {% endif %}
 {% endfor %}
