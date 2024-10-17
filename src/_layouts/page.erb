@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1><%= data.title %></h1>
+<% if data.bgg %>
+<quote>
+  <a href="<%= data.bgg %>">on BoardGameGeek</a>
+</quote>
+<% end %>
+
+<% site.static_files.each do |file| %>
+  <% if file.path.include?("/#{data.slug}/") %>
+    <%
+    classes = if file.basename.end_with?("-2")
+      "half-width"
+    else
+      ""
+    end
+    %>
+    <img class="<%= classes %>" src="<%= file.relative_path %>"/>
+  <% end %>
+<% end %>

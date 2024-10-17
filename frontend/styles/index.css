@@ -384,3 +384,9 @@ p>select { padding: 0;      margin: 0 .5em; }
 	.noprint, body>nav, section:after { display: none; }
 	.row { flex-direction: row; }
 }
+
+/*********** END CLASSLESS ***********/
+
+.half-width {
+    max-width: 49%;
+}
