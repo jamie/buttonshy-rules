@@ -30,11 +30,10 @@ template_engine: liquid
 # update `publicPath`.
 
 # timezone: America/Los_Angeles
-pagination:
-  enabled: true
+# pagination:
+#   enabled: true
 
 collections:
   games:
     output: true
     permalink: simple_ext
-
