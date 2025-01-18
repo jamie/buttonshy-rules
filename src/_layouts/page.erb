@@ -14,6 +14,8 @@ layout: default
     <%
     classes = if file.basename.end_with?("-2")
       "half-width"
+    elsif file.basename.end_with?("-1")
+      "quarter-width"
     else
       ""
     end

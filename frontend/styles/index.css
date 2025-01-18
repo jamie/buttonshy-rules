@@ -784,3 +784,6 @@ p > select {
 .half-width {
     max-width: 49%;
 }
+.quarter-width {
+    max-width: 24%;
+}
