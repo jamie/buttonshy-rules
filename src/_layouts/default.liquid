@@ -4,7 +4,15 @@
     {% render "head", metadata: site.metadata, title: data.title %}
   </head>
   <body class="{{ data.layout }} {{ data.page_class }}">
-    {% render "navbar", metadata: site.metadata, resource: resource %}
+    <header>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Game List</a></li>
+        <li><a href="https://buttonshygames.com/">Button Shy Games</a></li>
+      </ul>
+    </nav>
 
     <main>
       <article>
@@ -14,6 +22,8 @@
       </article>
     </main>
 
-    {% render "footer", metadata: site.metadata %}
+    <footer>
+      Contact me on Button Shy's discord as <strong>@jamie_ca</strong>
+    </footer>
   </body>
 </html>
