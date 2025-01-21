@@ -20,6 +20,28 @@ template_engine: erb
 
 ### Board Game of the Month Club releases
 
+January 2025
+- Circle the Wagons: Second Shot
+- Circle the Wagons: Lone Cowboy (for Second Shot)
+- Naturopolis: Elevation
+- Mysticana: Curse of Dragons
+- Super Slopes: Park Rat
+
+December 2024
+- RNSM
+- RNSM: Vexing Letters
+- Agropolis: Harvest
+- Mysticana: Harbingers
+- Battlecrest: Rin Mana
+
+November 2024
+- A Nice Cuppa
+- A Nice Cuppa: A Good Book
+- A Nice Cuppa: Seasonal Stresses
+- The Last Lighthouse: Terrible Tides
+- The Last Lighthouse: Fearsom Fog
+- Mysticana: Wild Magic
+
 October 2024
 - Death Valley: Highs & Lows
 - FantasyForm: Ripped Apart
