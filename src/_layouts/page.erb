@@ -9,6 +9,23 @@ layout: default
 </quote>
 <% end %>
 
+<% game_files = site.static_files.select { |f| f.path.include?("/#{data.slug}/") } %>
+
+<% 0.upto(99) do |n| %>
+  <% batch = game_files.select { |f| f.path.match(/\b0*#{n}[a-z]\b/) } %>
+  <% if batch.any? %>
+    <div class="conatiner m-8">
+      <% batch.each do |file| %>
+        <img src="<%= file.relative_path %>" style="display: inline-block; max-width: 358px;" />
+      <% end %>
+    </div>
+    <br/>
+    <hr/>
+    <br/>
+  <% end %>
+<% end %>
+
+<!--
 <% site.static_files.each do |file| %>
   <% if file.path.include?("/#{data.slug}/") %>
     <%
@@ -23,3 +40,4 @@ layout: default
     <img class="<%= classes %>" src="<%= file.relative_path %>"/>
   <% end %>
 <% end %>
+-->
