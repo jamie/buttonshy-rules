@@ -2,17 +2,19 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
+template_engine: erb
 ---
 
 ### Rulebook collection for Button Shy Games
 
-<ul>
-  {% for game in collections.games.resources %}
-    <li>
-      <a href="{{ game.relative_url }}">{{ game.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="container">
+  <% collections.games.resources.each do |game| %>
+    <% if cover = site.static_files.detect { |file| file.basename =~ /#{game.data.slug}-00a/ } %>
+      <a href="/games/<%= game.data.slug %>"><img src="<%= cover.relative_path %>" height="200px" /></a>
+    <% end %>
+  <% end %>
+</div>
+<br/>
 
 ---
 
