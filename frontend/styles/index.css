@@ -781,9 +781,11 @@ p > select {
 
 /*********** END CLASSLESS ***********/
 
-.half-width {
-    max-width: 49%;
-}
-.quarter-width {
-    max-width: 24%;
+.rulebook {
+    margin-bottom: 2em;
+    overflow: auto;
+    white-space: nowrap;
+    img {
+        max-width: 350px;
+    }
 }

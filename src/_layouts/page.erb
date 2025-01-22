@@ -14,14 +14,11 @@ layout: default
 <% 0.upto(99) do |n| %>
   <% batch = game_files.select { |f| f.path.match(/\b0*#{n}[a-z]\b/) } %>
   <% if batch.any? %>
-    <div class="conatiner m-8">
+    <div class="rulebook">
       <% batch.each do |file| %>
-        <img src="<%= file.relative_path %>" style="display: inline-block; max-width: 358px;" />
+        <img src="<%= file.relative_path %>" />
       <% end %>
     </div>
-    <br/>
-    <hr/>
-    <br/>
   <% end %>
 <% end %>
 
