@@ -786,7 +786,7 @@ p > select {
     overflow: auto;
     white-space: nowrap;
     img {
-        max-width: min(90vw, 350px);
-        max-height: 95vh;
+        max-width: min(90vw, 3.5in);
+        max-height: min(95vh);
     }
 }
