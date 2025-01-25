@@ -47,3 +47,13 @@ end
 #     say_status :rake, "I'm a Rake tast =) #{site.config.url}"
 #   end
 # end
+
+desc "Convert pngs in src/images to webp"
+task :png2webp do
+  FileUtils.mkdir_p("bak/images")
+  Dir["src/images/**/*[0-9][0-9][a-z].png"].each do |png|
+    webp = png.gsub(/\.png$/, ".webp")
+    system "magick #{png} -resize 358 #{webp}"
+    system "mv #{png} bak/images/"
+  end
+end
