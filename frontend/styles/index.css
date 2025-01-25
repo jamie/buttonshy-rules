@@ -789,4 +789,7 @@ p > select {
         max-width: min(90vw, 3.5in);
         max-height: min(95vh);
     }
+    img.wide {
+        max-width: min(180vw, 7in);
+    }
 }

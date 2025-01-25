@@ -12,11 +12,15 @@ layout: default
 <% game_files = site.static_files.select { |f| f.path.include?("/#{data.slug}/") } %>
 
 <% 0.upto(99) do |n| %>
-  <% batch = game_files.select { |f| f.path.match(/\b0*#{n}[a-z]\b/) } %>
+  <% batch = game_files.select { |f| f.path.match(/\b0*#{n}[a-z]+\b/) } %>
   <% if batch.any? %>
     <div class="rulebook">
       <% batch.each do |file| %>
-        <img src="<%= file.relative_path %>" />
+        <% if file.relative_path =~ /[0-9]+[a-z]{1}\./ %>
+          <img src="<%= file.relative_path %>" />
+        <% elsif file.relative_path =~ /[0-9]+[a-z]{2}\./ %>
+          <img class="wide" src="<%= file.relative_path %>" />
+        <% end %>
       <% end %>
     </div>
   <% end %>
