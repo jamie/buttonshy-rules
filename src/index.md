@@ -20,6 +20,22 @@ template_engine: erb
 
 ### Board Game of the Month Club releases
 
+Kickstarter'ed, will be in a future month
+- Hyperstar Run
+- Hyperstar Run: Equipment Drop
+- Hyperstar Run: Final Bosses
+
+Non-Club 2025
+- A Nice Cuppa: Pets
+- A Nice Cuppa: Something Sweet
+
+February 2025
+- Glass Garden
+- Glass Garden: Centerpieces
+- FantasyForm: Burned Away
+- Tides: Buried Treasure
+- Mysticana: Element of Surprise
+
 January 2025
 - Circle the Wagons: Second Shot
 - Circle the Wagons: Lone Cowboy (for Second Shot)
