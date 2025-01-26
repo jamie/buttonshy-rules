@@ -781,6 +781,10 @@ p > select {
 
 /*********** END CLASSLESS ***********/
 
+.covers img {
+    aspect-ratio: 2.5/3.5;
+    width: min(2in, 32%);
+}
 .rulebook {
     margin-bottom: 2em;
     overflow: auto;
@@ -788,8 +792,8 @@ p > select {
     img {
         max-width: min(90vw, 3.5in);
         max-height: min(95vh);
-    }
-    img.wide {
-        max-width: min(180vw, 7in);
+        &.wide {
+            max-width: min(180vw, 7in);
+        }
     }
 }
