@@ -5,7 +5,7 @@ layout: default
 template_engine: erb
 ---
 
-### Rulebook collection for Button Shy Games
+### Button Shy Games
 
 <div class="covers">
   <% collections.games.resources.each do |game| %>
@@ -15,6 +15,10 @@ template_engine: erb
   <% end %>
 </div>
 <br/>
+
+### Other Games
+
+- [Galdor's Grip](/games/galdors-grip/)
 
 ---
 
