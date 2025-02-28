@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# expects:
+# ${1:input file}
+# ${2:output folder}
+# ${3:output sequence, default 0}
+
+filename="$1"
+outfolder="$2"
+outsequence="${3:-00}"
+
+if [ -z "$filename" ]; then
+  echo "First arg: input file" >&2
+  exit 1
+fi
+if [ -z "$outfolder" ]; then
+  echo "Second arg: output folder" >&2
+  exit 1
+fi
+
+
+vips copy "$filename"[dpi=300,page=0] temp-page.png
+vips crop temp-page.png temp-crop.png 151 226 2998 2098 # Magic values for Button Shy
+
+mkdir -p "src/images/$outfolder"
+
+# Row 1
+vips crop temp-crop.png page.png 0 0 749 1049
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}f.webp" 500
+
+vips crop temp-crop.png page.png 749 0 749 1049
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}g.webp" 500
+
+vips crop temp-crop.png page.png 1498 0 749 1049
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}h.webp" 500
+
+vips crop temp-crop.png page.png 2247 0 749 1049
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}a.webp" 500
+
+# Row 2, upside down so rotate
+vips crop temp-crop.png page.png 0 1049 749 1049
+vips rotate page.png rot.png 180 && mv rot.png page.png
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}b.webp" 500
+
+vips crop temp-crop.png page.png 749 1049 749 1049
+vips rotate page.png rot.png 180 && mv rot.png page.png
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}c.webp" 500
+
+vips crop temp-crop.png page.png 1498 1049 749 1049
+vips rotate page.png rot.png 180 && mv rot.png page.png
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}d.webp" 500
+
+vips crop temp-crop.png page.png 2247 1049 749 1049
+vips rotate page.png rot.png 180 && mv rot.png page.png
+vips thumbnail page.png "src/images/$outfolder/$outfolder-${outsequence}e.webp" 500
+
+# Cleanup
+rm temp-page.png temp-crop.png page.png
