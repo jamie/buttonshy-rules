@@ -15,4 +15,11 @@
             max-width: min(180vw, 7in);
         }
     }
+
+    @media (min-width: 1280px) {
+        white-space: normal;
+        img {
+            max-width: 24%;
+        }
+    }
 }
