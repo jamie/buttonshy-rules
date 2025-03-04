@@ -1,11 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-
 layout: default
 template_engine: erb
 ---
 
 ### Button Shy Games
+
+<blockquote><a href="https://buttonshygames.com/">Online Store</a></blockquote>
 
 <div class="covers">
   <% collections.games.resources.each do |game| %>
