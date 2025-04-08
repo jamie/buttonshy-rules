@@ -9,7 +9,7 @@ template_engine: erb
 
 <div class="covers">
   <% collections.games.resources.each do |game| %>
-    <% if cover = site.static_files.detect { |file| file.basename =~ /#{game.data.slug}-00a/ } %>
+    <% if cover = site.static_files.detect { |file| file.basename =~ /^#{game.data.slug}-00a/ } %>
       <a href="/games/<%= game.data.slug %>"><img src="<%= cover.relative_path %>" /></a>
     <% end %>
   <% end %>
