@@ -4,6 +4,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Button Shy Rules
+title: Board Game Rules
 description: >-
-  A collection of Button Shy rule books for easy reference.
+  A collection of board game rule books for easy reference.
