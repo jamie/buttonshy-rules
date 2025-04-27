@@ -12,7 +12,7 @@
         max-width: min(90vw, 3.5in);
         max-height: min(95vh);
         &.wide {
-            max-width: min(180vw, 7in);
+            max-width: min(180vw, 7.075in);
         }
     }
 
