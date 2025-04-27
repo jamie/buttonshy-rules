@@ -51,9 +51,10 @@ end
 desc "Convert pngs in src/images to webp"
 task :png2webp do
   FileUtils.mkdir_p("bak/images")
-  Dir["src/images/**/*[0-9][0-9][a-z].png"].each do |png|
+  Dir["src/images/**/*[0-9][0-9]*.png"].each do |png|
     webp = png.gsub(/\.png$/, ".webp")
     size = 358 * png.scan(/(?<=[0-9])([a-z]+)\./)[0][0].size rescue 358
+    puts png
     system "magick #{png} -resize #{size} #{webp}"
     system "mv #{png} bak/images/"
   end
