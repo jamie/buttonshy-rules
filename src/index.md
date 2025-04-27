@@ -25,64 +25,80 @@ template_engine: erb
 ### Board Game of the Month Club releases
 
 Kickstarter'ed, will be in a future month
-- Hyperstar Run
-- Hyperstar Run: Equipment Drop
-- Hyperstar Run: Final Bosses
+- Adventurous
+- Dionysia
+- Casinopolis
 
 Non-Club 2025
 - A Nice Cuppa: Pets
 - A Nice Cuppa: Something Sweet
 
+May 2025
+- Casinopolis
+- Mysticana: The Queen's Interests
+- Skulls of Sedlec: Plague Doctors
+
+April 2025
+- ☑️ Hyperstar Run
+- Hyperstar Run: Equipment Drop
+- Hyperstar Run: Final Bosses
+- ☑️ Mysticana: Shifting Winds
+
+March 2025
+- Movie Plotz 10th Anniversary
+- Aqua Rove: Sunken Secrets
+- ☑️ Mysticana: Realmseekers
+
 February 2025
-- Glass Garden
-- Glass Garden: Centerpieces
-- FantasyForm: Burned Away
+- ☑️ Glass Garden
+- ☑️ Glass Garden: Centerpieces
+- ☑️ FantasyForm: Burned Away
 - Tides: Buried Treasure
-- Mysticana: Element of Surprise
+- ☑️ Mysticana: Element of Surprise
 
 January 2025
 - Circle the Wagons: Second Shot
 - Circle the Wagons: Lone Cowboy (for Second Shot)
 - Naturopolis: Elevation
-- Mysticana: Curse of Dragons
+- ☑️ Mysticana: Curse of Dragons
 - Super Slopes: Park Rat
 
 December 2024
 - RNSM
 - RNSM: Vexing Letters
 - Agropolis: Harvest
-- Mysticana: Harbingers
+- ☑️ Mysticana: Harbingers
 - Battlecrest: Rin Mana
 
 November 2024
-- A Nice Cuppa
+- ☑️ A Nice Cuppa
 - A Nice Cuppa: A Good Book
 - A Nice Cuppa: Seasonal Stresses
 - The Last Lighthouse: Terrible Tides
 - The Last Lighthouse: Fearsom Fog
-- Mysticana: Wild Magic
+- ☑️ Mysticana: Wild Magic
 
 October 2024
-- Death Valley: Highs & Lows
-- FantasyForm: Ripped Apart
-- Mysticana: Arcane Artifacts
+- ☑️ Death Valley: Highs & Lows
+- ☑️ FantasyForm: Ripped Apart
+- ☑️ Mysticana: Arcane Artifacts
 - Super Slopes: Black Diamond
 - Pizza Pizza Yum Yum: Spicy Jalapenos
 
 September 2024
-- Mysticana
-- Mysticana: Cave of Djinns
+- ☑️ Mysticana
+- ☑️ Mysticana: Cave of Djinns
 - Numbsters: Infinity
 - Skulls of Sedlec: Troubadors
 - Skulls of Sedlec: Farmers
 
 August 2024
-- ROVE Jr
+- ☑️ ROVE Jr
 - Ancient Realm: Leaders Set III
 - Battlecrest: Kivani Hero Set
 
 July 2024
-- Aqua ROVE
+- ☑️ Aqua ROVE
 - ROVE: Tourist Traps
 - ROVE: Dive Mode
 - Skulls of Sedlec: Archers
@@ -93,12 +109,12 @@ June 2024
 - Battlecrest: Andmar Hero Set
 
 May 2024
-- FantasyForm
-- FantasyForm: Frozen Over
+- ☑️ FantasyForm
+- ☑️ FantasyForm: Frozen Over
 - Polyheduel
 
 April 2024
-- Cortiça
+- ☑️ Cortiça
 - Super Slopes: Snow Report
 - Battlecrest: Metronn Imperator II Solo Mode
 
