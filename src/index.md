@@ -22,6 +22,13 @@ template_engine: erb
 
 ---
 
+### TODOs:
+
+- Skulls of Sedlec base + expansions 1-6
+- River Wild
+
+
+
 ### Board Game of the Month Club releases
 
 Kickstarter'ed, will be in a future month
@@ -66,15 +73,15 @@ April 2025
 - ☑️ Mysticana: Shifting Winds
 
 March 2025
-- Movie Plotz 10th Anniversary
-- ☑️ Aqua Rove: Sunken Secrets
+- ☑️ Movie Plotz 10th Anniversary
+- ☑️ Aqua ROVE: Sunken Secrets
 - ☑️ Mysticana: Realmseekers
 
 February 2025
 - ☑️ Glass Garden
 - ☑️ Glass Garden: Centerpieces
 - ☑️ FantasyForm: Burned Away
-- Tides: Buried Treasure
+- ☑️ Tides: Buried Treasure
 - ☑️ Mysticana: Element of Surprise
 
 January 2025
@@ -95,8 +102,8 @@ November 2024
 - ☑️ A Nice Cuppa
 - ☑️ A Nice Cuppa: A Good Book
 - ☑️ A Nice Cuppa: Seasonal Stresses
-- The Last Lighthouse: Terrible Tides
-- The Last Lighthouse: Fearsom Fog
+- ☑️ The Last Lighthouse: Terrible Tides
+- ☑️ The Last Lighthouse: Fearsom Fog
 - ☑️ Mysticana: Wild Magic
 
 October 2024
@@ -120,8 +127,8 @@ August 2024
 
 July 2024
 - ☑️ Aqua ROVE
-- ROVE: Tourist Traps
-- ROVE: Dive Mode
+- ☑️ ROVE: Tourist Traps
+- ☑️ ROVE: Dive Mode
 - ☑️ Skulls of Sedlec: Archers
 
 June 2024
@@ -140,9 +147,9 @@ April 2024
 - Battlecrest: Metronn Imperator II Solo Mode
 
 March 2024
-- The Last Lighthouse
-- The Last Lighthouse: Strange Shores
-- The Last Lighthouse: Long Nights
+- ☑️ The Last Lighthouse
+- ☑️ The Last Lighthouse: Strange Shores
+- ☑️ The Last Lighthouse: Long Nights
 - The Royal Limited: Conductors & VIPs
 - The Royal Limited: Vintage Engines
 
