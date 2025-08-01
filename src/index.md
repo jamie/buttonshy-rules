@@ -25,28 +25,49 @@ template_engine: erb
 ### Board Game of the Month Club releases
 
 Kickstarter'ed, will be in a future month
-- Adventurous
-- Dionysia
-- Casinopolis
+- Shallow Regrets
+- Converge: Bastions of Tradition
+- Converge: Keepers of Order
 
 Non-Club 2025
 - A Nice Cuppa: Pets
 - A Nice Cuppa: Something Sweet
+- Converge: Champions of Nature
+- Converge: Emissaries of Tomorrow
+- Cookoo Shuffle
+
+August 2025
+- Adventurous
+- Adventurous: Forgotten Worlds
+- Mysticana: Oracle's Sight
+
+July 2025
+- Dionysia
+- Dionysia: Soliloquy
+- Dionysia: Muse of Tragedy
+- Mysticana: Conjurer's Tome
+
+June 2025
+- Leaping Lions
+- Leaping Lions: Prosperity
+- Leaping Lions: Aspirations
+- Mysticana: Unnatural Beasts
 
 May 2025
-- Casinopolis
-- Mysticana: The Queen's Interests
-- Skulls of Sedlec: Plague Doctors
+- ☑️ Casinopolis
+- ☑️ Casinopolis: Place Your Bets
+- ☑️ Mysticana: The Queen's Interests
+- ☑️ Skulls of Sedlec: Plague Doctors
 
 April 2025
 - ☑️ Hyperstar Run
-- Hyperstar Run: Equipment Drop
-- Hyperstar Run: Final Bosses
+- ☑️ Hyperstar Run: Equipment Drop
+- ☑️ Hyperstar Run: Final Bosses
 - ☑️ Mysticana: Shifting Winds
 
 March 2025
 - Movie Plotz 10th Anniversary
-- Aqua Rove: Sunken Secrets
+- ☑️ Aqua Rove: Sunken Secrets
 - ☑️ Mysticana: Realmseekers
 
 February 2025
@@ -72,8 +93,8 @@ December 2024
 
 November 2024
 - ☑️ A Nice Cuppa
-- A Nice Cuppa: A Good Book
-- A Nice Cuppa: Seasonal Stresses
+- ☑️ A Nice Cuppa: A Good Book
+- ☑️ A Nice Cuppa: Seasonal Stresses
 - The Last Lighthouse: Terrible Tides
 - The Last Lighthouse: Fearsom Fog
 - ☑️ Mysticana: Wild Magic
@@ -89,8 +110,8 @@ September 2024
 - ☑️ Mysticana
 - ☑️ Mysticana: Cave of Djinns
 - Numbsters: Infinity
-- Skulls of Sedlec: Troubadors
-- Skulls of Sedlec: Farmers
+- ☑️ Skulls of Sedlec: Troubadors
+- ☑️ Skulls of Sedlec: Farmers
 
 August 2024
 - ☑️ ROVE Jr
@@ -101,7 +122,7 @@ July 2024
 - ☑️ Aqua ROVE
 - ROVE: Tourist Traps
 - ROVE: Dive Mode
-- Skulls of Sedlec: Archers
+- ☑️ Skulls of Sedlec: Archers
 
 June 2024
 - Championland: Volleyball
