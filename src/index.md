@@ -33,8 +33,11 @@ template_engine: erb
 
 Kickstarter'ed, will be in a future month
 - Shallow Regrets
+- Shallow Regrets: Lingering Remorse
+- Shallow Regrets: The Fisher & The Frod
 - Converge: Bastions of Tradition
 - Converge: Keepers of Order
+- Lands of Amazement
 
 Non-Club 2025
 - A Nice Cuppa: Pets
@@ -161,3 +164,129 @@ February 2024
 January 2024
 - Championland: Wrestling
 - Grandma Theseus
+
+Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games?page=1&sort_by=title-ascending). Will not be doing all of these, I expect.
+- 3 Lands or King
+- A la Food Cart
+- Adder
+- AdvanceQuest: Among I, the Fungi
+- Agropolis (Harvest, Invasion and Points of Interest, Seasons)
+- Ahead in the Clouds (Stormfront, Tents Trackers and Contracts)
+- An Otter Won
+- Ancient Realm (Monuments and Misfortunes)
+- Anthelion (Androids, Conclave, Chaos, Folk)
+- Antinomy
+- Apropos of Board Games / Movies
+- Aqua Rove: Sunken Secrets
+- Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
+- Area Z
+- Astral Dreams
+- At the Helm: Lazarette, Port Amalga
+- Aurora Decree
+- Avignon (Indulgence Pack 1-2, Pilgrimage, Schism)
+- Banned Books (Animals)
+- Battlecrest (_lots of releases_)
+- Chain Mail (_lots of releases_)
+- Championland: Track and Field
+- Chill Pill
+- Circle the Wagons (Lone Cowboy, Wildest West and more Lone Cowboy)
+- Cityline
+- Combopolis (1-3)
+- Count of the Nine Estates
+- Cow Tiger Santa Claus (high score rules)
+- Cunning Folk
+- Death Valley: Panamint city
+- Dicecathalon
+- Do-Si Duel
+- Exploring Galapagos
+- Feat on the Ground
+- Find Your Seats (Bonus Appetit)
+- Fishing Lessons (Fabled Fish, Family Friends, Leland's Tackle Box, Weather)
+- Fliptricks
+- Food Chain Island (Waters, Creatures, Beasts, Skies)
+- Forest Sky: Open Air
+- Fruitition
+- Garden of Zen
+- Guesswork
+- Handsome (Brilliant)
+- Herotec (Job Insecurity)
+- Hierarchy (Emissary)
+- Horreos
+- Hot Dogs
+- Humans
+- I Guess This is It
+- In Vino Morte
+- Interceptor
+- It Was This Big
+- Kintsugi
+- Launchtime
+- Legends of Dsyx (_lots of releases_)
+- Liberation (Warped World)
+- Little White Lie
+- Making Manhattan
+- Mechage
+- Micro Drift
+- Mint Julep (Win Place Show)
+- Movie Plots (Cult Films, The Sequel)
+- Moving Pictures (Dinosaur, Mystery)
+- Nanotec
+- Naturopolis (Elevation, Nessie, Points of Interest)
+- Ninja
+- Numbsters
+- Nytelyfe Solitaire
+- Penny Rails
+- Pentaquark (Colliders)
+- Picaresque
+- Pickpockets
+- Picky Pixie
+- Pizza Pizza Yum Yum (Spicy Jalapenos)
+- Pod-X
+- Pont D'Avignon
+- Potions Class
+- Press Tour
+- Revolver Noir (Rogue Agents)
+- River Wild (Wildscapes) / Mild (Mildscapes)
+- Royale
+- Rube
+- Seasons of Rice (Jasmine, Festival)
+- Semifinal Fantasy
+- Shades of Ink
+- Six Sons of the Sultan
+- Skulls of Sedlec (plus 9ish expansions?)
+- Smoke & Mirrors
+- SpaceShipped (Debts, Lockdown, Route, Dynasty)
+- Sprawlopolis (Beaches, Interstate, Roadwork, Wrecktar/Construction/Points of Interest)
+- Squabblin Goblins
+- Starship Babel
+- Stew (Fungus)
+- Super Pocket League Extreme Wrestlilng
+- Super Slopes
+- Supertall (Municipal)
+- Tag Team (3x)
+- Tempus Quest (_lots of releases_)
+- That Snow Moon (Know This)
+- The Boy who Cried Wolf
+- The Family Dinner
+- The Final Light-Year (Beta, Cratos, Delta)
+- The Forest Watch
+- The Maiden in the Forest
+- The Perfect Moment (Vegas)
+- The Royal Limited (Second Line, Murder on Board)
+- Tides: Fun in the Sun
+- Time Travel Entertainment Inc
+- Timestamp (several)
+- Tornado Chase
+- Turbo Drift
+- Tussie Mussie (collection, flower shoppe, customers)
+- Twin Stars (several)
+- Ugly Gryphon Inn (Innployees, Dragons, Patrons, Little Beak)
+- Ultimopolis
+- Universal Rule (several)
+- Unsurmountable: Acclimitization, Big Climb, Dual Peaks, Rescue Mission
+- Why I Otter
+- Wild Cats
+- Wildtails
+- Worder
+- Yule Tides
+- Zebra
+
