@@ -32,12 +32,6 @@ template_engine: erb
 ### Board Game of the Month Club releases
 
 Kickstarter'ed, will be in a future month
-- Shallow Regrets
-- Shallow Regrets: Lingering Remorse
-- Shallow Regrets: The Fisher & The Frod
-- Converge: Bastions of Tradition
-- Converge: Keepers of Order
-- Lands of Amazement
 
 Non-Club 2025
 - A Nice Cuppa: Pets
@@ -46,9 +40,25 @@ Non-Club 2025
 - Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
 
+November 2025
+- Lands of Amazement
+- Lands of Amazement: Family Fun
+- Lands of Amazement: Restorations
+- Aqua ROVE: Dreadful Depths
+
+October 2025
+- ☑️ Shallow Regrets
+- ☑️ Shallow Regrets: The Fisher & The Frod
+- ☑️ Shallow Regrets: Lingering Remorse
+
+September 2025
+- ☑️ Converge: Bastions of Tradition
+- ☑️ Converge: Keepers of Order
+- ☑️ Aqua ROVE: Risky Reefs
+
 August 2025
-- Adventurous
-- Adventurous: Forgotten Worlds
+- ☑️ Adventurous
+- ☑️ Adventurous: Forgotten Worlds
 - Mysticana: Oracle's Sight
 
 July 2025
@@ -289,4 +299,3 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Worder
 - Yule Tides
 - Zebra
-
