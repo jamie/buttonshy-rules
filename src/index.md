@@ -187,7 +187,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Anthelion (Androids, Conclave, Chaos, Folk)
 - Antinomy
 - Apropos of Board Games / Movies
-- Aqua Rove: Sunken Secrets
 - Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
 - Area Z
 - Astral Dreams
