@@ -184,7 +184,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - AdvanceQuest: Among I, the Fungi
 - Agropolis (Harvest, Invasion and Points of Interest, Seasons)
 - Ahead in the Clouds (Stormfront, Tents Trackers and Contracts)
-- An Otter Won
+- ☑️ An Otter Won
 - Ancient Realm (Monuments and Misfortunes)
 - Anthelion (Androids, Conclave, Chaos, Folk)
 - Antinomy
@@ -295,7 +295,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Ultimopolis
 - Universal Rule (several)
 - Unsurmountable: Acclimitization, Big Climb, Dual Peaks, Rescue Mission
-- Why I Otter
+- ☑️ Why I Otter
 - Wild Cats
 - Wildtails
 - Worder
