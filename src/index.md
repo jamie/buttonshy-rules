@@ -190,7 +190,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - ☑️ Antinomy
 - Apropos of Board Games / Movies
 - Aqua Rove: Sunken Secrets
-- Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
+- ☑️ Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
 - Area Z
 - Astral Dreams
 - At the Helm: Lazarette, Port Amalga
