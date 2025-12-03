@@ -177,7 +177,7 @@ January 2024
 
 Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games?page=1&sort_by=title-ascending). Will not be doing all of these, I expect.
 - 3 Lands or King
-- A la Food Cart
+- ☑️ A la Food Cart
 - Adder
 - AdvanceQuest: Among I, the Fungi
 - Agropolis (Harvest, Invasion and Points of Interest, Seasons)
