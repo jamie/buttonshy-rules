@@ -31,14 +31,16 @@ template_engine: erb
 
 ### Board Game of the Month Club releases
 
-Kickstarter'ed, will be in a future month
-
 Non-Club 2025
 - A Nice Cuppa: Pets
 - A Nice Cuppa: Something Sweet
 - Converge: Champions of Nature
 - Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
+
+December 2025
+- Embers
+- Adventurous: Grand Expeditions
 
 November 2025
 - Lands of Amazement
@@ -187,6 +189,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Anthelion (Androids, Conclave, Chaos, Folk)
 - Antinomy
 - Apropos of Board Games / Movies
+- Aqua Rove: Sunken Secrets
 - Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
 - Area Z
 - Astral Dreams
