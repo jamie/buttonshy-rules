@@ -32,12 +32,6 @@ template_engine: erb
 ### Board Game of the Month Club releases
 
 Kickstarter'ed, will be in a future month
-- Shallow Regrets
-- Shallow Regrets: Lingering Remorse
-- Shallow Regrets: The Fisher & The Frod
-- Converge: Bastions of Tradition
-- Converge: Keepers of Order
-- Lands of Amazement
 
 Non-Club 2025
 - A Nice Cuppa: Pets
@@ -46,16 +40,32 @@ Non-Club 2025
 - Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
 
+November 2025
+- Lands of Amazement
+- Lands of Amazement: Family Fun
+- Lands of Amazement: Restorations
+- Aqua ROVE: Dreadful Depths
+
+October 2025
+- ☑️ Shallow Regrets
+- ☑️ Shallow Regrets: The Fisher & The Frod
+- ☑️ Shallow Regrets: Lingering Remorse
+
+September 2025
+- ☑️ Converge: Bastions of Tradition
+- ☑️ Converge: Keepers of Order
+- ☑️ Aqua ROVE: Risky Reefs
+
 August 2025
-- Adventurous
-- Adventurous: Forgotten Worlds
-- Mysticana: Oracle's Sight
+- ☑️ Adventurous
+- ☑️ Adventurous: Forgotten Worlds
+- ☑️ Mysticana: Oracle's Sight
 
 July 2025
 - Dionysia
 - Dionysia: Soliloquy
 - Dionysia: Muse of Tragedy
-- Mysticana: Conjurer's Tome
+- ☑️ Mysticana: Conjurer's Tome
 
 June 2025
 - Leaping Lions
@@ -177,7 +187,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Anthelion (Androids, Conclave, Chaos, Folk)
 - Antinomy
 - Apropos of Board Games / Movies
-- Aqua Rove: Sunken Secrets
 - Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
 - Area Z
 - Astral Dreams
@@ -289,4 +298,3 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Worder
 - Yule Tides
 - Zebra
-
