@@ -187,7 +187,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - ☑️ An Otter Won
 - Ancient Realm (Monuments and Misfortunes)
 - Anthelion (Androids, Conclave, Chaos, Folk)
-- Antinomy
+- ☑️ Antinomy
 - Apropos of Board Games / Movies
 - Aqua Rove: Sunken Secrets
 - Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
