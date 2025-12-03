@@ -234,7 +234,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Kintsugi
 - Launchtime
 - Legends of Dsyx (_lots of releases_)
-- Liberation (Warped World)
+- ☑️ Liberation (Warped World)
 - Little White Lie
 - ☑️ Making Manhattan
 - Mechage
