@@ -37,6 +37,7 @@ Non-Club 2025
 - Converge: Champions of Nature
 - Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
+- ☑️ Downtown Las Palmas
 
 December 2025
 - Embers
