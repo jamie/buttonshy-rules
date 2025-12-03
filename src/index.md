@@ -241,7 +241,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Micro Drift
 - Mint Julep (Win Place Show)
 - Movie Plots (Cult Films, The Sequel)
-- Moving Pictures (Dinosaur, Mystery)
+- ☑️ Moving Pictures (Dinosaur, Mystery)
 - Nanotec
 - Naturopolis (Elevation, Nessie, Points of Interest)
 - Ninja
