@@ -235,7 +235,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Legends of Dsyx (_lots of releases_)
 - Liberation (Warped World)
 - Little White Lie
-- Making Manhattan
+- ☑️ Making Manhattan
 - Mechage
 - Micro Drift
 - Mint Julep (Win Place Show)
