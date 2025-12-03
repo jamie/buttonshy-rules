@@ -257,7 +257,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Pont D'Avignon
 - Potions Class
 - Press Tour
-- Revolver Noir (Rogue Agents)
+- ☑️ Revolver Noir (Rogue Agents)
 - River Wild (Wildscapes) / Mild (Mildscapes)
 - Royale
 - Rube
