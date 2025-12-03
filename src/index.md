@@ -62,9 +62,9 @@ August 2025
 - ☑️ Mysticana: Oracle's Sight
 
 July 2025
-- Dionysia
-- Dionysia: Soliloquy
-- Dionysia: Muse of Tragedy
+- ☑️ Dionysia
+- ☑️ Dionysia: Soliloquy
+- ☑️ Dionysia: Muse of Tragedy
 - ☑️ Mysticana: Conjurer's Tome
 
 June 2025
