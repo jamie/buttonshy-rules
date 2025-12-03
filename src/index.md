@@ -34,8 +34,8 @@ template_engine: erb
 Non-Club 2025
 - ☑️ A Nice Cuppa: Pets
 - ☑️ A Nice Cuppa: Something Sweet
-- Converge: Champions of Nature
-- Converge: Emissaries of Tomorrow
+- ☑️ Converge: Champions of Nature
+- ☑️ Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
 - ☑️ Downtown Las Palmas
 
@@ -47,7 +47,7 @@ November 2025
 - ☑️ Lands of Amazement
 - ☑️ Lands of Amazement: Family Fun
 - ☑️ Lands of Amazement: Restorations
-- Aqua ROVE: Dreadful Depths
+- ☑️ Aqua ROVE: Dreadful Depths
 
 October 2025
 - ☑️ Shallow Regrets
@@ -179,19 +179,27 @@ January 2024
 - Grandma Theseus
 
 Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games?page=1&sort_by=title-ascending). Will not be doing all of these, I expect.
-- 3 Lands or King
+
 - ☑️ A la Food Cart
+- ☑️ An Otter Won
+- ☑️ Antinomy (➡️Solo Flare)
+- ☑️ Arcane Bakery Clash (➡️Boss Bake Off, ➡️Mystery Ingredients)
+- ☑️ Liberation (➡️Warped World)
+- ☑️ Making Manhattan
+- ☑️ Moving Pictures (Dinosaur, Mystery, ➡️Solo Mode Rules)
+- ☑️ Revolver Noir (Rogue Agents)
+- ☑️ The Perfect Moment (multiple expansions)
+- ☑️ Why I Otter
+
+
+- 3 Lands or King
 - Adder
 - AdvanceQuest: Among I, the Fungi
 - Agropolis (Harvest, Invasion and Points of Interest, Seasons)
 - Ahead in the Clouds (Stormfront, Tents Trackers and Contracts)
-- ☑️ An Otter Won
 - Ancient Realm (Monuments and Misfortunes)
 - Anthelion (Androids, Conclave, Chaos, Folk)
-- ☑️ Antinomy
 - Apropos of Board Games / Movies
-- Aqua Rove: Sunken Secrets
-- ☑️ Arcane Bakery Clash (Boss Bake Off, Mystery Ingredients)
 - Area Z
 - Astral Dreams
 - At the Helm: Lazarette, Port Amalga
@@ -234,14 +242,11 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Kintsugi
 - Launchtime
 - Legends of Dsyx (_lots of releases_)
-- ☑️ Liberation (Warped World)
 - Little White Lie
-- ☑️ Making Manhattan
 - Mechage
 - Micro Drift
 - Mint Julep (Win Place Show)
 - Movie Plots (Cult Films, The Sequel)
-- ☑️ Moving Pictures (Dinosaur, Mystery)
 - Nanotec
 - Naturopolis (Elevation, Nessie, Points of Interest)
 - Ninja
@@ -257,7 +262,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Pont D'Avignon
 - Potions Class
 - Press Tour
-- ☑️ Revolver Noir (Rogue Agents)
 - River Wild (Wildscapes) / Mild (Mildscapes)
 - Royale
 - Rube
@@ -283,7 +287,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - The Final Light-Year (Beta, Cratos, Delta)
 - The Forest Watch
 - The Maiden in the Forest
-- ☑️ The Perfect Moment (multiple expansions)
 - The Royal Limited (Second Line, Murder on Board)
 - Tides: Fun in the Sun
 - Time Travel Entertainment Inc
@@ -296,7 +299,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Ultimopolis
 - Universal Rule (several)
 - Unsurmountable: Acclimitization, Big Climb, Dual Peaks, Rescue Mission
-- ☑️ Why I Otter
 - Wild Cats
 - Wildtails
 - Worder
