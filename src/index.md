@@ -32,8 +32,8 @@ template_engine: erb
 ### Board Game of the Month Club releases
 
 Non-Club 2025
-- A Nice Cuppa: Pets
-- A Nice Cuppa: Something Sweet
+- ☑️ A Nice Cuppa: Pets
+- ☑️ A Nice Cuppa: Something Sweet
 - Converge: Champions of Nature
 - Converge: Emissaries of Tomorrow
 - Cookoo Shuffle
