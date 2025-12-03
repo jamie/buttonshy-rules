@@ -44,9 +44,9 @@ December 2025
 - Adventurous: Grand Expeditions
 
 November 2025
-- Lands of Amazement
-- Lands of Amazement: Family Fun
-- Lands of Amazement: Restorations
+- ☑️ Lands of Amazement
+- ☑️ Lands of Amazement: Family Fun
+- ☑️ Lands of Amazement: Restorations
 - Aqua ROVE: Dreadful Depths
 
 October 2025
