@@ -282,7 +282,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - The Final Light-Year (Beta, Cratos, Delta)
 - The Forest Watch
 - The Maiden in the Forest
-- The Perfect Moment (Vegas)
+- ☑️ The Perfect Moment (multiple expansions)
 - The Royal Limited (Second Line, Murder on Board)
 - Tides: Fun in the Sun
 - Time Travel Entertainment Inc
