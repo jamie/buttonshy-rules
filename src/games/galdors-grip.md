@@ -45,7 +45,7 @@ determine how many cards will move to the bottom of the deck each turn and also 
 some scoring objectives.
 - Wildcards — If a card’s active value is a Wildcard (*), you may designate its value (ranging from
 1 to 6) every time you interact with it (e.g. as a moving option, toward a scoring objective).
-- D. Rotation Eligibility — Cards with a Rotate symbol ( ) along with a preview of the other side’s
+- D. Rotation Eligibility — Cards with a Rotate symbol (⟳) along with a preview of the other side’s
 value can be rotated whenever they are the top card of the deck (and when moving to the bottom
 of the deck along with Deeproot Depths). If a card does not have this symbol, this means that the
 player cannot rotate that card unless a certain ability or event occurs that allows them to do so.
@@ -67,7 +67,7 @@ counts toward the **nine** ⭐️ threshold required to win the game.
 
 Deck Construction — You can mix and
 match any non-essential Core Set card that
-doesn’t have a Puzzle Piece ( ) attribute
+doesn’t have a Puzzle Piece (🧩) attribute
 with any card from other sets as long as your
 deck contains 18 cards.
 
@@ -116,7 +116,7 @@ decisions based on the options available. During play, you may check the composi
 deck and inspect any faceup cards at any time. You cannot peek at facedown cards (unless using the
 Feragot’s Fortress ability).
 
-You may rotate a card with a Rotate symbol () whenever it’s the top card of the deck at any time during a turn.
+You may rotate a card with a Rotate symbol (⟳) whenever it’s the top card of the deck at any time during a turn.
 
 Note: Whenever multiple abilities trigger during the same event, you get to decide the order in which they
 resolve; use this to your advantage!
@@ -144,7 +144,7 @@ turn, you immediately lose the game!
 End each turn by moving cards to the bottom of the deck to “explore”
 more of it. First, choose a value based on up to two available options:
 - a. The top card’s active value. Note: If the top card has a Rotate
-symbol ( ), it can be rotated so its other value becomes the active
+symbol (⟳), it can be rotated so its other value becomes the active
 one.
 - b. The next card’s active value. This option is only available when the
 next card is faceup and has a value in its top-left corner.
