@@ -125,8 +125,8 @@ February 2025
 - ☑️ Mysticana: Element of Surprise
 
 January 2025
-- Circle the Wagons: Second Shot
-- Circle the Wagons: Lone Cowboy (for Second Shot)
+- ☑️ Circle the Wagons: Second Shot
+- ☑️ Circle the Wagons: Lone Cowboy (for Second Shot)
 - Naturopolis: Elevation
 - ☑️ Mysticana: Curse of Dragons
 - Super Slopes: Park Rat
@@ -208,6 +208,8 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - ☑️ An Otter Won
 - ☑️ Antinomy (➡️Solo Flare)
 - ☑️ Arcane Bakery Clash (➡️Boss Bake Off, ➡️Mystery Ingredients)
+- ☑️ Circle the Wagons
+- ☑️ Circle the Wagons: Lone Cowboy
 - ☑️ Liberation (➡️Warped World)
 - ☑️ Making Manhattan
 - ☑️ Moving Pictures (Dinosaur, Mystery, ➡️Solo Mode Rules)
@@ -234,7 +236,8 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Chain Mail (_lots of releases_)
 - Championland: Track and Field
 - Chill Pill
-- Circle the Wagons (Lone Cowboy, Wildest West and more Lone Cowboy)
+- Circle the Wagons: Wildest West
+- Circle the Wagons: Lone Cowboy Rides Again
 - Cityline
 - Combopolis (1-3)
 - Count of the Nine Estates
