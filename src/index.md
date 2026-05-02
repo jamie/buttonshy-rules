@@ -31,6 +31,29 @@ template_engine: erb
 
 ### Board Game of the Month Club releases
 
+May 2026
+- The Daily Weather
+- The Daily Weather: Weekly Forecast
+
+April 2026
+- ☑️ A Dragon's Gift
+- ☑️ A Dragon's Gift: Beacons
+- ☑️ A Dragon's Gift: Exotic Transports
+
+March 2026
+- Otter Chaos
+- ☑️ Adventurous: Cursed Seas
+
+February 2026
+- Battlecrest: Deadrock
+- Battlecrest: Reference Cards
+
+January 2026
+- Phantasmic
+- Phantasmic: Necromancy
+- Apropos of Board Games: Table Talk
+- Apropos of Board Games: Movie Magic
+
 Non-Club 2025
 - ☑️ A Nice Cuppa: Pets
 - ☑️ A Nice Cuppa: Something Sweet
@@ -40,8 +63,9 @@ Non-Club 2025
 - ☑️ Downtown Las Palmas
 
 December 2025
-- Embers
-- Adventurous: Grand Expeditions
+- ☑️ Embers
+- ☑️ Embers: The New Guard
+- ☑️ Adventurous: Grand Expeditions
 
 November 2025
 - ☑️ Lands of Amazement
@@ -71,9 +95,9 @@ July 2025
 - ☑️ Mysticana: Conjurer's Tome
 
 June 2025
-- Leaping Lions
-- Leaping Lions: Prosperity
-- Leaping Lions: Aspirations
+- ☑️ Leaping Lions
+- ☑️ Leaping Lions: Prosperity
+- ☑️ Leaping Lions: Aspirations
 - Mysticana: Unnatural Beasts
 
 May 2025
