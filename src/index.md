@@ -132,8 +132,8 @@ January 2025
 - Super Slopes: Park Rat
 
 December 2024
-- RNSM
-- RNSM: Vexing Letters
+- ☑️ RNSM
+- ☑️ RNSM: Vexing Letters
 - Agropolis: Harvest
 - ☑️ Mysticana: Harbingers
 - Battlecrest: Rin Mana
