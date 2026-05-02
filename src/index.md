@@ -41,7 +41,7 @@ April 2026
 - ☑️ A Dragon's Gift: Exotic Transports
 
 March 2026
-- Otter Chaos
+- ☑️ Otter Chaos
 - ☑️ Adventurous: Cursed Seas
 
 February 2026
@@ -49,8 +49,8 @@ February 2026
 - Battlecrest: Reference Cards
 
 January 2026
-- Phantasmic
-- Phantasmic: Necromancy
+- ☑️ Phantasmic
+- ☑️ Phantasmic: Necromancy
 - Apropos of Board Games: Table Talk
 - Apropos of Board Games: Movie Magic
 
