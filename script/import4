@@ -19,7 +19,7 @@ if [ -z "$outfolder" ]; then
 fi
 
 
-vips copy "$filename"[dpi=300,page=0] temp-page.png
+vips copy "$filename"[dpi=300,page=${PAGE:-0}] temp-page.png
 vips crop temp-page.png temp-crop.png 151 226 2998 2098 # Magic values for Button Shy
 
 mkdir -p "src/images/$outfolder"
