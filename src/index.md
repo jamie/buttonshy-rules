@@ -129,7 +129,7 @@ January 2025
 - ☑️ Circle the Wagons: Lone Cowboy (for Second Shot)
 - Naturopolis: Elevation
 - ☑️ Mysticana: Curse of Dragons
-- Super Slopes: Park Rat
+- ☑️ Super Slopes: Park Rat
 
 December 2024
 - ☑️ RNSM
@@ -150,7 +150,7 @@ October 2024
 - ☑️ Death Valley: Highs & Lows
 - ☑️ FantasyForm: Ripped Apart
 - ☑️ Mysticana: Arcane Artifacts
-- Super Slopes: Black Diamond
+- ☑️ Super Slopes: Black Diamond
 - Pizza Pizza Yum Yum: Spicy Jalapenos
 
 September 2024
@@ -183,7 +183,7 @@ May 2024
 
 April 2024
 - ☑️ Cortiça
-- Super Slopes: Snow Report
+- ☑️ Super Slopes: Snow Report
 - Battlecrest: Metronn Imperator II Solo Mode
 
 March 2024
@@ -214,6 +214,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - ☑️ Making Manhattan
 - ☑️ Moving Pictures (Dinosaur, Mystery, ➡️Solo Mode Rules)
 - ☑️ Revolver Noir (Rogue Agents)
+- ☑️ Super Slopes
 - ☑️ The Perfect Moment (multiple expansions)
 - ☑️ Why I Otter
 
@@ -304,7 +305,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Starship Babel
 - Stew (Fungus)
 - Super Pocket League Extreme Wrestlilng
-- Super Slopes
 - Supertall (Municipal)
 - Tag Team (3x)
 - Tempus Quest (_lots of releases_)
