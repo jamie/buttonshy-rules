@@ -24,7 +24,6 @@ template_engine: erb
 
 ### TODOs:
 
-- Skulls of Sedlec base + expansions 1-6
 - River Wild
 
 
@@ -214,6 +213,7 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - ☑️ Making Manhattan
 - ☑️ Moving Pictures (Dinosaur, Mystery, ➡️Solo Mode Rules)
 - ☑️ Revolver Noir (Rogue Agents)
+- ☑️ Skulls of Sedlec (plus 9ish expansions?)
 - ☑️ Super Slopes
 - ☑️ The Perfect Moment (multiple expansions)
 - ☑️ Why I Otter
@@ -297,7 +297,6 @@ Older, but [on PNPArcade](https://www.pnparcade.com/collections/button-shy-games
 - Semifinal Fantasy
 - Shades of Ink
 - Six Sons of the Sultan
-- Skulls of Sedlec (plus 9ish expansions?)
 - Smoke & Mirrors
 - SpaceShipped (Debts, Lockdown, Route, Dynasty)
 - Sprawlopolis (Beaches, Interstate, Roadwork, Wrecktar/Construction/Points of Interest)
